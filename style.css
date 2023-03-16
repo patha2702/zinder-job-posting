@@ -10,13 +10,8 @@ body{
 
 p{
     line-height: 1.5;
-    /* font-size: 1rem; */
 }
 
-
-.container > * {
-    border: 1px solid black;
-} 
 
 .container{
     display: grid;
